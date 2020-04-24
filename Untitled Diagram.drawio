@@ -1,89 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T14:06:36.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="GWtgyF07QQeHtr3r0WBb" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-24T14:56:47.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Jczdb2t3dNKvd5Q7f_Ov" version="13.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1617" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wiE9PDr9LPtzBybS5Zg-6" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="4wiE9PDr9LPtzBybS5Zg-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="140" />
-              <mxPoint x="20" y="140" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="190" y="130" as="sourcePoint" />
+            <mxPoint x="220" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="START" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="370" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="390" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="490" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="630" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="510" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5CL-pyyh4zBr3wo6puaA-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="4wiE9PDr9LPtzBybS5Zg-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="120" as="sourcePoint" />
-            <mxPoint x="220" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="140" />
-              <mxPoint x="330" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wiE9PDr9LPtzBybS5Zg-6">
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=8;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wiE9PDr9LPtzBybS5Zg-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="180" width="320" height="180" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wiE9PDr9LPtzBybS5Zg-6" target="Ko7_Mq95beZ5ZsDXgUVJ-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="197.5" width="180" height="125" as="geometry" />
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="440" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-11" value="&lt;div&gt;int birth(int b)&lt;/div&gt;&lt;div&gt;char* exfeb(int y)&lt;/div&gt;&lt;div&gt;char* gender(int g)&lt;/div&gt;&lt;div&gt;char* foreigner(int f)&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;jumpSize=6;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wiE9PDr9LPtzBybS5Zg-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="438" />
+              <mxPoint x="220" y="438" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-12" value="&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3Bint%20birth(int%20b)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20exfeb(int%20y)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20gender(int%20g)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20foreigner(int%20f)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bautosize%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bpoints%3D%5B%5D%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%22170%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;char name1[10];&lt;/span&gt;&lt;span&gt;		&lt;/span&gt;&lt;span&gt;//이름 입력 문자열 선언(3개)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char name2[10];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char name3[10];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char major1[20];&lt;span&gt;	&lt;/span&gt;//학과 입력 문자열 선언(3개)&lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char major2[20];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char major3[20];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char idnum1[13];&lt;span&gt;	&lt;/span&gt;//주민등록번호 문자열 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int idnum11[13];&lt;span&gt;	&lt;/span&gt;//(문자열 주민등록번호 변환목적)숫자열 주민등록번호 선언(3개)&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char idnum2[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int idnum22[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;char idnum3[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int idnum33[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int birthyear1, birthyear2, birthyear3;&lt;span&gt;		&lt;/span&gt;//출생년도 출력용 변수 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int birthday1, birthday2, birthday3;&lt;span&gt;		&lt;/span&gt;//생년월일 비교용 변수 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;	&lt;/span&gt;int i, j;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="200" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-11" value="&lt;div&gt;int birth(int b)&lt;/div&gt;&lt;div&gt;char* exfeb(int y)&lt;/div&gt;&lt;div&gt;char* gender(int g)&lt;/div&gt;&lt;div&gt;char* foreigner(int f)&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="232.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-12" value="&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3Bint%20birth(int%20b)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20exfeb(int%20y)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20gender(int%20g)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bchar*%20foreigner(int%20f)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bautosize%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bpoints%3D%5B%5D%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%22170%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt;char name1[10];&lt;/span&gt;&lt;span&gt;  &lt;/span&gt;&lt;span&gt;//이름 입력 문자열 선언(3개)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char name2[10];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char name3[10];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char major1[20];&lt;span&gt; &lt;/span&gt;//학과 입력 문자열 선언(3개)&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char major2[20];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char major3[20];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char idnum1[13];&lt;span&gt; &lt;/span&gt;//주민등록번호 문자열 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int idnum11[13];&lt;span&gt; &lt;/span&gt;//(문자열 주민등록번호 변환목적)숫자열 주민등록번호 선언(3개)&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char idnum2[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int idnum22[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;char idnum3[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int idnum33[13];&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int birthyear1, birthyear2, birthyear3;&lt;span&gt;  &lt;/span&gt;//출생년도 출력용 변수 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int birthday1, birthday2, birthday3;&lt;span&gt;  &lt;/span&gt;//생년월일 비교용 변수 선언(3개)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;int i, j;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="70" width="20" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="4wiE9PDr9LPtzBybS5Zg-15" value="&lt;div&gt;char name1[10], name2[10], name3[10]&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;char major1[20], major2[20], major3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;char idnum1[20], idnum2[20], idnum3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;int idnum11[20], idnum22[20], idnum33[20]&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;int birthyear1, birthyear2, birthyear3&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;int birthday1, birthday2, birthday3&lt;/div&gt;&lt;div&gt;&lt;span&gt;int i, j&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="220" width="250" height="100" as="geometry" />
+        <mxCell id="4wiE9PDr9LPtzBybS5Zg-15" value="&lt;div&gt;char name1[10], name2[10], name3[10]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;char major1[20], major2[20], major3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;char idnum1[20], idnum2[20], idnum3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int idnum11[20], idnum22[20], idnum33[20]&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int birthyear1, birthyear2, birthyear3&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int birthday1, birthday2, birthday3&lt;/div&gt;&lt;div&gt;&lt;span&gt;int i, j&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="485" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-3" value="3명의 학생 정보를 입력하시오." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="680" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-7" value="i = 0; i &lt; 3; i++" style="swimlane;align=right;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="820" width="590" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-8" value="j = 0; j &lt; 13; j++" style="swimlane;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="200" y="250" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-9" value="j = 0; j &lt; 13; j++" style="swimlane;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="200" y="440" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="50" y="70" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-12" value="i == 0" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="100" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="50" y="349" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-14" value="i == 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="100" y="389" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="60" y="560" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-16" value="i == 2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="110" y="600" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
