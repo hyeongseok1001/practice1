@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-24T15:39:09.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="FsolBXDibdIoyQtvIih7" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-24T15:44:12.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="dNR1HVx8oIov6eJihxUj" version="13.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,10 +47,10 @@
           <mxGeometry x="90" y="485" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-3" value="출력: 3명의 학생 정보를 입력하시오." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="680" width="280" height="100" as="geometry" />
+          <mxGeometry x="80" y="680" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-7" value="i = 0; i &lt; 3; i++" style="swimlane;align=right;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="950" width="680" height="1310" as="geometry" />
+          <mxGeometry x="30" y="950" width="1280" height="1310" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-8" value="j = 0; j &lt; 13; j++" style="swimlane;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
           <mxGeometry x="225" y="240" width="230" height="90" as="geometry" />
@@ -94,14 +94,14 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-28" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
           <mxGeometry x="260" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
-          <mxGeometry x="490" y="240" width="100" height="100" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-37" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthyear1 = birth(idnum11[6]) + idnum11[0] * 10 + idnum11[1]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthday1 = birthyear1 * 10000 + idnum11[2] * 1000 + idnum11[3] * 100 + idnum11[4] * 10 + idnum11[5]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="500" y="240" width="550" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
-          <mxGeometry x="510" y="561" width="100" height="100" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-38" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthyear2 = birth(idnum22[6]) + idnum22[0] * 10 + idnum22[1]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthday2 = birthyear2 * 10000 + idnum22[2] * 1000 + idnum22[3] * 100 + idnum22[4] * 10 + idnum22[5];&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="495" y="561" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
-          <mxGeometry x="490" y="935" width="100" height="100" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-39" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthyear3 = birth(idnum33[6]) + idnum33[0] * 10 + idnum33[1]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;birthday3 = birthyear3 * 10000 + idnum33[2] * 1000 + idnum33[3] * 100 + idnum33[4] * 10 + idnum33[5];&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="490" y="935" width="560" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-50" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
           <mxGeometry x="480" y="110" width="100" height="60" as="geometry" />
