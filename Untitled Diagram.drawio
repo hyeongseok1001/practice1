@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-24T15:13:58.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="boC9iHAdjDG0MouZmL5K" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-24T15:17:21.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="ANtPwLPU4CHHLMKwOveY" version="13.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="790" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,11 +46,11 @@
         <mxCell id="4wiE9PDr9LPtzBybS5Zg-15" value="&lt;div&gt;char name1[10], name2[10], name3[10]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;char major1[20], major2[20], major3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;char idnum1[20], idnum2[20], idnum3[20]&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int idnum11[20], idnum22[20], idnum33[20]&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int birthyear1, birthyear2, birthyear3&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;int birthday1, birthday2, birthday3&lt;/div&gt;&lt;div&gt;&lt;span&gt;int i, j&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="485" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-3" value="3명의 학생 정보를 입력하시오." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-3" value="출력: 3명의 학생 정보를 입력하시오." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="680" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-7" value="i = 0; i &lt; 3; i++" style="swimlane;align=right;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="950" width="680" height="1060" as="geometry" />
+          <mxGeometry x="30" y="950" width="680" height="1310" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-8" value="j = 0; j &lt; 13; j++" style="swimlane;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
           <mxGeometry x="220" y="259" width="230" height="90" as="geometry" />
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-25" value="&lt;div&gt;출력: &quot;이름 : &quot;&lt;/div&gt;&lt;div&gt;입력: name3&lt;/div&gt;&lt;div&gt;출력: &quot;학과 : &quot;&lt;/div&gt;&lt;div&gt;입력: major3&lt;/div&gt;&lt;div&gt;출력: &quot;주민등록번호: &quot;&lt;/div&gt;&lt;div&gt;입력: idnum3&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
           <mxGeometry x="254" y="790" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-26" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="280" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-27" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="265" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-28" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="260" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
