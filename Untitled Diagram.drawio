@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T15:20:33.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="h1Nuig3Xeg6c-ZpCxEa8" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T15:27:41.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="b-XBdcBJO013mWZYeE3W" version="13.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -230,16 +230,16 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-29" value="출력: 입력 받은 3명의 정보를 생년월일 기준으로 오름차순으로 출력." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1845" y="1000" width="510" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-30" value="birthday1 &amp;lt; birthday2 &amp;amp;&amp;amp; birthday1 &amp;lt; birthday3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2060" y="1180" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2220" y="1380" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-34" value="birthday2 &amp;lt; birthday1 &amp;amp;&amp;amp; birthday2 &amp;lt; birthday3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1950" y="1530" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-35" value="birthday1 &amp;lt; birthday2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2120" y="1710" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -251,11 +251,11 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-41" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2110" y="1480" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-42" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-42" value="출력:&amp;nbsp;name3, birthyear3, idnum33[2], idnum33[3], idnum33[4], idnum33[5], exfeb(birthyear3), foreigner(idnum33[6]), gender(idnum33[6]), major3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2110" y="1620" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-43" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2278" y="1850" width="100" height="60" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-43" value="출력1:&amp;nbsp;name2, birthyear2, idnum22[2], idnum22[3], idnum22[4], idnum22[5], exfeb(birthyear2), foreigner(idnum22[6]), gender(idnum22[6]), major2&lt;br&gt;출력2:&amp;nbsp;name1, birthyear1, idnum11[2], idnum11[3], idnum11[4], idnum11[5], exfeb(birthyear1), foreigner(idnum11[6]), gender(idnum11[6]), major1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1860" y="1850" width="1150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-44" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2128" y="2100" width="100" height="60" as="geometry" />
@@ -266,7 +266,7 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-46" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2428" y="2060" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-47" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-47" value="&lt;div&gt;&lt;span&gt;출력1:&amp;nbsp;name1, birthyear1, idnum11[2], idnum11[3], idnum11[4], idnum11[5], exfeb(birthyear1), foreigner(idnum11[6]), gender(idnum11[6]), major1&lt;/span&gt;&lt;/div&gt;출력2:&amp;nbsp;name2, birthyear2, idnum22[2], idnum22[3], idnum22[4], idnum22[5], exfeb(birthyear2), foreigner(idnum22[6]), gender(idnum22[6]), major2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2290" y="1720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-48" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
