@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T15:01:26.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="g5sT2k1ntWkFnzxJ5qes" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T15:03:18.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="rFUeTjNU-mf42qFLR9sr" version="13.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,8 +125,8 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-21" value="&lt;div&gt;출력: &quot;이름 : &quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;출력: &quot;학과 : &quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;출력: &quot;주민등록번호: &quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
           <mxGeometry x="325" y="120" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-26" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
-          <mxGeometry x="395" y="410" width="485" height="90" as="geometry" />
+        <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-26" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; float: none ; display: inline&quot;&gt;출력: name1, birthyear1, idnum11[2], idnum11[3], idnum11[4], idnum11[5],&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; float: none ; display: inline&quot;&gt;exfeb(birthyear1), foreigner(idnum11[6]), gender(idnum11[6]), major1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;fontStyle=1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
+          <mxGeometry x="570" y="420" width="590" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-27" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=right;" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
           <mxGeometry x="265" y="720" width="100" height="60" as="geometry" />
@@ -193,14 +193,11 @@
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-89" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
           <mxGeometry x="80" y="320" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lSgKYJNW8RAeHyvgfnGF-133" value="출력: name1, birthyear1, idnum11[2], idnum11[3], idnum11[4], idnum11[5], &lt;br&gt;exfeb(birthyear1), foreigner(idnum11[6]), gender(idnum11[6]), major1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Ko7_Mq95beZ5ZsDXgUVJ-7" vertex="1">
-          <mxGeometry x="432.5" y="440" width="410" height="30" as="geometry" />
+        <mxCell id="dBFYVeHw5s0hKZNI1sb_-70" value="출력: name2, birthyear2, idnum22[2], idnum22[3], idnum22[4], idnum22[5], &lt;br&gt;exfeb(birthyear2), foreigner(idnum22[6]), gender(idnum22[6]), major2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="515" y="719" width="565" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dBFYVeHw5s0hKZNI1sb_-70" value="name2, birthyear2, idnum22[2], idnum22[3], idnum22[4], idnum22[5], &lt;br&gt;exfeb(birthyear2), foreigner(idnum22[6]), gender(idnum22[6]), major2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
-          <mxGeometry x="515" y="719" width="485" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="dBFYVeHw5s0hKZNI1sb_-71" value="name3, birthyear3, idnum33[2], idnum33[3], idnum33[4], idnum33[5], &lt;br&gt;exfeb(birthyear3), foreigner(idnum33[6]), gender(idnum33[6]), major3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
-          <mxGeometry x="495" y="1100" width="485" height="90" as="geometry" />
+        <mxCell id="dBFYVeHw5s0hKZNI1sb_-71" value="출력: name3, birthyear3, idnum33[2], idnum33[3], idnum33[4], idnum33[5], &lt;br&gt;exfeb(birthyear3), foreigner(idnum33[6]), gender(idnum33[6]), major3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="Ko7_Mq95beZ5ZsDXgUVJ-7">
+          <mxGeometry x="495" y="1100" width="565" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-29" value="출력: 입력 받은 3명의 정보를 생년월일 기준으로 오름차순으로 출력." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1880" y="990" width="280" height="100" as="geometry" />
