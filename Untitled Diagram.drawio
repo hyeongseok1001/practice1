@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T15:20:07.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="XXsF1i4auP5IKxlJuGuc" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T15:20:33.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="h1Nuig3Xeg6c-ZpCxEa8" version="13.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="lSgKYJNW8RAeHyvgfnGF-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ko7_Mq95beZ5ZsDXgUVJ-7" target="Ko7_Mq95beZ5ZsDXgUVJ-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1910" y="1645" />
-              <mxPoint x="1910" y="1040" />
+              <mxPoint x="1720" y="1645" />
+              <mxPoint x="1720" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,7 +228,7 @@
           <mxGeometry x="70" y="744" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-29" value="출력: 입력 받은 3명의 정보를 생년월일 기준으로 오름차순으로 출력." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2140" y="980" width="280" height="100" as="geometry" />
+          <mxGeometry x="1845" y="1000" width="510" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ko7_Mq95beZ5ZsDXgUVJ-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=right;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2060" y="1180" width="100" height="100" as="geometry" />
