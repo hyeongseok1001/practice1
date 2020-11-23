@@ -1,17 +1,50 @@
-
-.title__header {
-  font-size: 16px; 
-  padding: 4px 12px;
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('./Press_Start_2P/PressStart2P-Regular.ttf');
 }
 
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Press Start 2P', cursive;
+  margin: 12px;
+}
+
+.title__header {
+  padding: 24px 12px;
+}
+
+.title__header a {
+  color: #72b8db;
+  font-size: 40px;
+  font-weight: bold;
+}
 
 nav {
   display: flex;
-  align-items: right;
+  flex-direction: cloumn;
+  align-content: space-around;
+}
+
+.header nav {
 }
 
 footer {
-  width: auto;
+  text-align: center;
+  width: 100%;
   padding: auto;
-  margin: 12px;
+  margin: 0;
 }
