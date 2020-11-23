@@ -1,14 +1,16 @@
 
 .title__header {
-  padding: 12px 8px;
+  padding: 4px 12px;
 }
 
 
 nav {
   display: flex;
-  
+  align-items: right;
 }
 
 footer {
   width: auto;
+  padding: auto;
+  margin: 12px;
 }
