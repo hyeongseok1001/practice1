@@ -1,4 +1,9 @@
 
+.title__header {
+  padding: 12px 8px;
+}
+
+
 nav {
   display: flex;
   
