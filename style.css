@@ -19,32 +19,57 @@ ul {
 header {
   display: flex;
   justify-content: space-between;
-  font-family: 'Press Start 2P', cursive;
-  margin: 12px;
+  font-family: 'Press Start 2P';
+  margin-left: 12px;
 }
 
 .title__header {
-  padding: 24px 12px;
+  padding-top: 24px;
+  padding-left: 12px;
 }
 
 .title__header a {
   color: #72b8db;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: bold;
 }
 
-nav {
+nav .menu {
+  margin-right: 12px;
+  margin-top: 24px;
   display: flex;
-  flex-direction: cloumn;
-  align-content: space-around;
+  justify-content: space-around;
 }
 
-.header nav {
+nav .menu li {
+  padding: 20px;
+}
+
+nav .menu li:hover {
+  border-radius: 40%;
+  background-color: rgb(245, 219, 71);
 }
 
 footer {
-  text-align: center;
   width: 100%;
   padding: auto;
-  margin: 0;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+footer .author {
+  margin-left: 20%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.author .name {
+  font-size: 17px;
+  font-weight: bold;
+  color: lightgray;
+}
+
+.author .email {
+  font-size: 17px;
+  color: lightgray;
 }
