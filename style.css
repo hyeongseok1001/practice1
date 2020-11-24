@@ -73,8 +73,9 @@ nav .menu > li:hover {
 }
 
 .subMenu > li {
-  font-size: 0.7rem;
-  margin-bottom: 10px;
+  font-size: 0.8rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
 
 }
 
@@ -85,7 +86,7 @@ main {
 .main__container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px 200px 200px;
 }
 
 .main__container .main__item{
