@@ -19,6 +19,7 @@ ul {
 header {
   display: flex;
   justify-content: space-between;
+  font-family: 'Press Start 2P';
 }
 
 .title__header {
@@ -54,6 +55,9 @@ nav .menu > li:hover {
   margin-bottom: 70px;
 }
 
+.menu__stacks:hover {
+    background-color:bisque;
+}
 
 .menu__stacks:hover .subMenu {
   display:block;
@@ -68,6 +72,7 @@ nav .menu > li:hover {
 
 .subMenu > li {
   margin-bottom: 10px;
+  
 }
 
 main {
