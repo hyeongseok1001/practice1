@@ -41,13 +41,38 @@ nav .menu {
   font-size: 1rem;
 }
 
-nav .menu li {
-  padding: 20px;
+nav .menu > li {
+  height: 30px;
+  width: 50px;
+  padding-top: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-nav .menu li:hover {
+nav .menu > li:hover {
   border-radius: 40%;
   background-color: rgb(245, 219, 71);
+  margin-bottom: 70px;
+}
+
+.menu__stacks:hover {
+    background-color: orange;
+    color: bisque;
+}
+
+.menu__stacks:hover .subMenu {
+  display:block;
+}
+
+.subMenu {
+  display: none;
+  width: 100px;
+  padding-left: 0;
+  margin-top: 30px;
+}
+
+.subMenu > li {
+  margin-bottom: 10px;
 }
 
 main {
