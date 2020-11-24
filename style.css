@@ -46,7 +46,7 @@ nav .menu > li {
   vertical-align: middle;
   /* text-align: center; */
   height: 30px;
-  width: 100px;
+  width: 120px;
   padding-top: 12px;
   padding-left: 50px;
   padding-right: 50px;
@@ -74,14 +74,14 @@ nav .menu > li:hover {
 }
 
 .subMenu > li {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   padding-top: 10px;
   padding-bottom: 10px;
 
 }
 
 .subMenu > li:hover {
-  font-size: 1rem;
+  font-size: 1.1rem;
   padding-top: 10px;
   padding-bottom: 10px;
 
