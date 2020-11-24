@@ -42,6 +42,9 @@ nav .menu {
 }
 
 nav .menu > li {
+  /* line-height: 30px; */
+  vertical-align: middle;
+  /* text-align: center; */
   height: 30px;
   width: 50px;
   padding-top: 12px;
@@ -52,27 +55,26 @@ nav .menu > li {
 nav .menu > li:hover {
   border-radius: 40%;
   background-color: rgb(245, 219, 71);
-  margin-bottom: 70px;
 }
 
-.menu__stacks:hover {
-    background-color:bisque;
+.menu__stacks:hover{
+    margin-bottom: 70px;
 }
 
 .menu__stacks:hover .subMenu {
   display:block;
+  width: 100px;
+  padding-left: 0;
+  padding-top: 10px;
 }
 
 .subMenu {
-  display: none;
-  width: 100px;
-  padding-left: 0;
-  margin-top: 30px;
+  display:none;
 }
 
 .subMenu > li {
   margin-bottom: 10px;
-  
+
 }
 
 main {
