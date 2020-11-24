@@ -82,13 +82,13 @@ nav .menu > li:hover {
 
 .subMenu > li:hover {
   font-size: 1.1rem;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 
 }
 
 main {
-  margin: 3%;
+  margin: 5%;
 }
 
 .main__container{
